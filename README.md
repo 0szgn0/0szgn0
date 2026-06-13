@@ -6,7 +6,10 @@
   </a>
   <a href="https://www.kaggle.com/szgnnn" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-
+  </a>
+<a href="https://www.instagram.com/gazifintech/" target="_blank">
+    <img src="https://img.shields.io/badge/FinTech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20BEFF&center=true&vCenter=true&width=600&lines=Statistics+Student+%40+Gazi+University;Data+Science+%26+ML+Enthusiast;President+%40+Gazi+FinTech" alt="Typing SVG" />
 </div>
